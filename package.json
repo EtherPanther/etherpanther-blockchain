@@ -1,0 +1,21 @@
+{
+  "name": "etherpanther-blockchain",
+  "version": "0.9.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "es6-promisify": "^5.0.0",
+    "truffle": "^4.0.5",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^0.20.4"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
